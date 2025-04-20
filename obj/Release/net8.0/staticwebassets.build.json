@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Y85o+MnotckUqZxCR0rHRTO4l9sHXdY/LRBpCDZhedI=",
+  "Source": "ElcomCustomerTelegramBot",
+  "BasePath": "_content/ElcomCustomerTelegramBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
