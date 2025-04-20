@@ -1,0 +1,9 @@
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\ElcomCustomerTelegramBot.exe
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\ElcomCustomerTelegramBot.dll
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\ElcomCustomerTelegramBot.deps.json
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\ElcomCustomerTelegramBot.runtimeconfig.json
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\ElcomCustomerTelegramBot.pdb
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\PR2\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\ElcomCustomerTelegramBot\obj\Release\net8.0\PubTmp\Out\Telegram.Bot.dll
