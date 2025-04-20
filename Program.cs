@@ -11,8 +11,8 @@ using ElcomCustomerTelegramBot.MenuServices;
 using ElcomCustomerTelegramBot.MenuResponses;
 
 
-var botClient = new TelegramBotClient("7997457895:AAFRkiMzRoy8KbkGPhp0Xf93294j_r29RnA");
-var apiBaseUrl = "http://elcomapi.runasp.net";
+var botClient = new TelegramBotClient("********");
+var apiBaseUrl = "********";
 
 var userStates = new Dictionary<long, string>();
 var phoneNumbers = new Dictionary<long, string>();
