@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>E:\PR2\ElcomCustomerTelegramBot\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-04-20T00:50:13.4769078Z||;True|2025-04-20T03:29:03.5466737+03:00||;False|2025-04-20T03:28:31.8424205+03:00||;True|2025-04-19T01:58:26.8178228+03:00||;</History>
+    <History>True|2025-05-10T05:39:14.3647353Z||;True|2025-05-10T08:25:22.9769224+03:00||;True|2025-05-10T08:24:47.6055048+03:00||;True|2025-04-20T03:50:13.4769078+03:00||;True|2025-04-20T03:29:03.5466737+03:00||;False|2025-04-20T03:28:31.8424205+03:00||;True|2025-04-19T01:58:26.8178228+03:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
