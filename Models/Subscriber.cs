@@ -16,6 +16,7 @@
         public string NationalId { get; set; }
         public string PackageName { get; set; }
         public int PackageId { get; set; }
+        public int MonthlyDataVolumeGb { get; set; }
         public decimal DownloadMonthlyBalance { get; set; }
         public int TotalDownloadMonthlyBalance { get; set; }
     }

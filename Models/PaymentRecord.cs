@@ -7,10 +7,10 @@ namespace ElcomCustomerTelegramBot.Models
         [JsonPropertyName("paymentAmount")]
         public int PaymentAmount { get; set; }
 
-        [JsonPropertyName("additionDate")]
-        public DateTime? AdditionDate { get; set; }
+        [JsonPropertyName("issueDate")]
+        public DateTime? issueDate { get; set; }
 
-        [JsonPropertyName("withdrawalDate")]
-        public DateTime? WithdrawalDate { get; set; }
+        [JsonPropertyName("paymentDate")]
+        public DateTime? paymentDate { get; set; }
     }
 }

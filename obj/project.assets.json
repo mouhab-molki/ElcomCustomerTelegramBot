@@ -95,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PR2\\ElcomCustomerTelegramBot\\ElcomCustomerTelegramBot.csproj",
+      "projectUniqueName": "D:\\PR2\\ElcomCustomerTelegramBot\\ElcomCustomerTelegramBot.csproj",
       "projectName": "ElcomCustomerTelegramBot",
-      "projectPath": "E:\\PR2\\ElcomCustomerTelegramBot\\ElcomCustomerTelegramBot.csproj",
+      "projectPath": "D:\\PR2\\ElcomCustomerTelegramBot\\ElcomCustomerTelegramBot.csproj",
       "packagesPath": "C:\\Users\\mouha\\.nuget\\packages\\",
-      "outputPath": "E:\\PR2\\ElcomCustomerTelegramBot\\obj\\",
+      "outputPath": "D:\\PR2\\ElcomCustomerTelegramBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
