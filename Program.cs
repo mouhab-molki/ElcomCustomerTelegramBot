@@ -14,8 +14,8 @@ using ElcomCustomerTelegramBot.Controllers;
 using System.Threading;
 
 
-var botClient = new TelegramBotClient("7997457895:AAE4o2crgCGqHHh8bzY4lClDM_mGVzpeoMc");
-var apiBaseUrl = "http://elcomapi.runasp.net";
+var botClient = new TelegramBotClient("xxxxx");
+var apiBaseUrl = "xxxxx"
 
 // Stores user-related data for tracking state, authentication, and subscription details.
 var userStates = new Dictionary<long, string>();
